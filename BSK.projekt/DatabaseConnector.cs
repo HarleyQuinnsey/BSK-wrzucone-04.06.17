@@ -46,7 +46,7 @@ namespace BSK.projekt
 
         public void Connect()
         {
-            this.connectionString = "user id=" + user + ";Data Source=" + instance + ";password="+ password+ ";Trusted_Connection=yes;" + "database=" + dataBaseName + "; " + "connection timeout=3; Integrated Security=false";
+            this.connectionString = "user id=" + user + ";Data Source=" + instance + ";Trusted_Connection=yes;" + "database=" + dataBaseName + "; " + "connection timeout=3";
 
             int chances = 100000000;
             while (chances != 0)
