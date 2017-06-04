@@ -1,0 +1,13 @@
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\bin\Release\BSK.projekt.exe.config
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\bin\Release\BSK.projekt.exe
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\bin\Release\BSK.projekt.pdb
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.MainForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.FlagForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.LogForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.Properties.Resources.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.SearchForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.UserCreatorForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.exe
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Release\BSK.projekt.pdb

@@ -1,0 +1,25 @@
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\bin\Debug\BSK.projekt.exe.config
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\bin\Debug\BSK.projekt.exe
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\bin\Debug\BSK.projekt.pdb
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\obj\Debug\BSK.projekt.csprojResolveAssemblyReference.cache
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\obj\Debug\BSK.projekt.MainForm.resources
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\obj\Debug\BSK.projekt.LogForm.resources
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\obj\Debug\BSK.projekt.Properties.Resources.resources
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\obj\Debug\BSK.projekt.csproj.GenerateResource.Cache
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\obj\Debug\BSK.projekt.exe
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\obj\Debug\BSK.projekt.pdb
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\obj\Debug\BSK.projekt.FlagForm.resources
+D:\STUDIA\VI sem aplikacje\BSK\bsk\BSK.projekt\obj\Debug\BSK.projekt.UserCreatorForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\bin\Debug\BSK.projekt.exe.config
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.exe
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.pdb
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\bin\Debug\BSK.projekt.exe
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\bin\Debug\BSK.projekt.pdb
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.MainForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.FlagForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.LogForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.Properties.Resources.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.UserCreatorForm.resources
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\bskNAJNOWSZE\BSK.projekt\obj\Debug\BSK.projekt.SearchForm.resources
